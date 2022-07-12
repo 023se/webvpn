@@ -1,6 +1,6 @@
 ## 简介
 
-一个建议的webvpn程序，负责进行http和http请求的转发
+一个简易的webvpn程序，负责进行http和http请求的转发
 
 ## 使用
 
